@@ -55,14 +55,6 @@
 
 Languages: Python, Bash Script, JavaScript, TypeScript
 
-Data Visualization: Grafana, Kibana
-
-DevOps: AWS, Azure, Docker, K8s, Jenkins
-
-Testing: Selenium, UI Vision, Protractor
-
-OS: Linux, Windows
-Languages
 <p align="left">
  <img align="center"
       src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/bash.svg"
@@ -77,6 +69,15 @@ Languages
       src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/python.svg"
       alt="alperen erturk" height="30" width="40" />
 </p>
+
+Data Visualization: Grafana, Kibana
+
+DevOps: AWS, Azure, Docker, K8s, Jenkins
+
+Testing: Selenium, UI Vision, Protractor
+
+OS: Linux, Windows
+
 
 
 
