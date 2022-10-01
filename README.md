@@ -101,11 +101,14 @@ DevOps: AWS, Azure, Docker, K8s, Jenkins
       alt="alperen erturk" height="30" width="40" />
 </p>
 
-Testing: Selenium, UI Vision, Protractor, Postman
+Testing: Selenium, Selenium IDE, UI Vision, Protractor, Postman
 
 <p align="left">
  <img align="center"
       src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/selenium.svg"
+      alt="alperen erturk" height="30" width="40" />
+   <img align="center"
+      src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/seleniumide.svg"
       alt="alperen erturk" height="30" width="40" />
   <img align="center"
       src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/uivision.png"
