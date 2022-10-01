@@ -109,7 +109,7 @@ Testing: Selenium, UI Vision, Protractor
       alt="alperen erturk" height="30" width="40" />
   <img align="center"
       src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/uivision.png"
-      alt="alperen erturk" height="30" width="40" />
+      alt="alperen erturk" height="30" width="30" />
   <img align="center"
       src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/protactor.svg"
       alt="alperen erturk" height="30" width="40" />
