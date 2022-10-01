@@ -101,7 +101,7 @@ DevOps: AWS, Azure, Docker, K8s, Jenkins
       alt="alperen erturk" height="30" width="40" />
 </p>
 
-Testing: Selenium, UI Vision, Protractor, postman
+Testing: Selenium, UI Vision, Protractor, Postman
 
 <p align="left">
  <img align="center"
