@@ -56,25 +56,64 @@
 Languages: Python, Bash Script, JavaScript, TypeScript
 
 <p align="left">
+  <img align="center"
+      src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/python.svg"
+      alt="alperen erturk" height="30" width="40" />
  <img align="center"
       src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/bash.svg"
       alt="alperen erturk" height="30" width="40" />
-  <img align="center"
-      src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/typescript.svg"
-      alt="alperen erturk" height="30" width="40" />
-  <img align="center"
+    <img align="center"
       src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/javascript.svg"
       alt="alperen erturk" height="30" width="40" />
   <img align="center"
-      src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/python.svg"
+      src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/typescript.svg"
       alt="alperen erturk" height="30" width="40" />
 </p>
 
 Data Visualization: Grafana, Kibana
 
+<p align="left">
+ <img align="center"
+      src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/grafana.svg"
+      alt="alperen erturk" height="30" width="40" />
+  <img align="center"
+      src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/kibana.svg"
+      alt="alperen erturk" height="30" width="40" />
+</p>
+
 DevOps: AWS, Azure, Docker, K8s, Jenkins
 
+<p align="left">
+ <img align="center"
+      src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/aws.svg"
+      alt="alperen erturk" height="30" width="40" />
+  <img align="center"
+      src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/azure.svg"
+      alt="alperen erturk" height="30" width="40" />
+  <img align="center"
+      src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/docker.svg"
+      alt="alperen erturk" height="30" width="40" />
+  <img align="center"
+      src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/kubernetes.svg"
+      alt="alperen erturk" height="30" width="40" />
+  <img align="center"
+      src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/jenkins.svg"
+      alt="alperen erturk" height="30" width="40" />
+</p>
+
 Testing: Selenium, UI Vision, Protractor
+
+<p align="left">
+ <img align="center"
+      src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/selenium.svg"
+      alt="alperen erturk" height="30" width="40" />
+  <img align="center"
+      src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/uivision.png"
+      alt="alperen erturk" height="30" width="40" />
+  <img align="center"
+      src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/protactor.svg"
+      alt="alperen erturk" height="30" width="40" />
+</p>
 
 OS: Linux, Windows
 
