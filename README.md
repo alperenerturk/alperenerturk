@@ -24,6 +24,12 @@
  <a href="https://twitter.com/alperennerturk" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/social/twitter.svg"
       alt="alperen erturk" height="30" width="40" /></a>
+ <a href="https://github.com/alperenerturk" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/social/github.svg"
+      alt="alperen erturk" height="30" width="40" /></a>
+ <a href="https://discord.com/channels/175266234047135744" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/social/discord.svg"
+      alt="alperen erturk" height="30" width="40" /></a>
 </p>
 
 ----
