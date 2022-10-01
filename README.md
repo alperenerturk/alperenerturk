@@ -62,9 +62,19 @@ DevOps: AWS, Azure, Docker, K8s, Jenkins
 Testing: Selenium, UI Vision, Protractor
 
 OS: Linux, Windows
-<p align="center">
+Languages
+<p align="left">
  <img align="center"
-      src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/aws.svg"
+      src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/bash.svg"
+      alt="alperen erturk" height="30" width="40" />
+  <img align="center"
+      src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/typescript.svg"
+      alt="alperen erturk" height="30" width="40" />
+  <img align="center"
+      src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/javascript.svg"
+      alt="alperen erturk" height="30" width="40" />
+  <img align="center"
+      src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/python.svg"
       alt="alperen erturk" height="30" width="40" />
 </p>
 
