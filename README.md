@@ -53,7 +53,7 @@
 
 ### Tech & Tools Skillset
 
-Languages: Python, Bash Script, JavaScript, TypeScript
+Languages: Python, Bash Script, JavaScript, TypeScript, Groovy
 
 <p align="left">
   <img align="center"
@@ -67,6 +67,9 @@ Languages: Python, Bash Script, JavaScript, TypeScript
       alt="alperen erturk" height="30" width="40" />
   <img align="center"
       src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/typescript.svg"
+      alt="alperen erturk" height="30" width="40" />
+  <img align="center"
+      src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/groovy.svg"
       alt="alperen erturk" height="30" width="40" />
 </p>
 
