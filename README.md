@@ -6,19 +6,19 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
-   <a href="https://www.alperenerturk.com/" target="blank"><img align="center"
+ <a href="https://www.alperenerturk.com/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/social/website.svg"
       alt="alperen erturk" height="30" width="40" /></a>
-  <a href="https://beacons.ai/alperenerturk/" target="blank"><img align="center"
+ <a href="https://beacons.ai/alperenerturk/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/social/businesscard.svg"
       alt="alperen erturk" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/alperenerturk/" target="blank"><img align="center"
+ <a href="https://www.linkedin.com/in/alperenerturk/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/social/linked.svg"
       alt="alperen erturk" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/alperennerturk" target="blank"><img align="center"
+ <a href="https://www.facebook.com/alperennerturk" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/social/facebook.svg"
       alt="alperen erturk" height="30" width="40" /></a>
-  <a href="https://instagram.com/alperennerturk" target="blank"><img align="center"
+ <a href="https://instagram.com/alperennerturk" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/social/instagram.svg"
       alt="alperen erturk" height="30" width="40" /></a>
  <a href="https://twitter.com/alperennerturk" target="blank"><img align="center"
@@ -56,7 +56,7 @@
 Languages: Python, Bash Script, JavaScript, TypeScript, Groovy
 
 <p align="left">
-  <img align="center"
+ <img align="center"
       src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/python.svg"
       alt="alperen erturk" height="30" width="40" />
  <img align="center"
@@ -65,10 +65,10 @@ Languages: Python, Bash Script, JavaScript, TypeScript, Groovy
     <img align="center"
       src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/javascript.svg"
       alt="alperen erturk" height="30" width="40" />
-  <img align="center"
+ <img align="center"
       src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/typescript.svg"
       alt="alperen erturk" height="30" width="40" />
-  <img align="center"
+ <img align="center"
       src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/groovy.svg"
       alt="alperen erturk" height="30" width="40" />
 </p>
@@ -79,28 +79,31 @@ Data Visualization: Grafana, Kibana
  <img align="center"
       src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/grafana.svg"
       alt="alperen erturk" height="30" width="40" />
-  <img align="center"
+ <img align="center"
       src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/kibana.svg"
       alt="alperen erturk" height="30" width="40" />
 </p>
 
-DevOps: AWS, Azure, Docker, K8s, Jenkins
+DevOps: Ansible, Jenkins, Docker, K8s, AWS, Azure
 
 <p align="left">
  <img align="center"
-      src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/aws.svg"
+      src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/ansible.svg"
       alt="alperen erturk" height="30" width="40" />
-  <img align="center"
-      src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/azure.svg"
+ <img align="center"
+      src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/jenkins.svg"
       alt="alperen erturk" height="30" width="40" />
-  <img align="center"
+ <img align="center"
       src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/docker.svg"
       alt="alperen erturk" height="30" width="40" />
-  <img align="center"
+ <img align="center"
       src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/kubernetes.svg"
       alt="alperen erturk" height="30" width="40" />
-  <img align="center"
-      src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/jenkins.svg"
+ <img align="center"
+      src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/aws.svg"
+      alt="alperen erturk" height="30" width="40" />
+ <img align="center"
+      src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/azure.svg"
       alt="alperen erturk" height="30" width="40" />
 </p>
 
@@ -110,16 +113,16 @@ Testing: Selenium, Selenium IDE, UI Vision, Protractor, Postman
  <img align="center"
       src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/selenium.svg"
       alt="alperen erturk" height="30" width="40" />
-   <img align="center"
+ <img align="center"
       src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/seleniumide.svg"
       alt="alperen erturk" height="30" width="40" />
-  <img align="center"
+ <img align="center"
       src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/uivision.png"
       alt="alperen erturk" height="30" width="30" />
-  <img align="center"
+ <img align="center"
       src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/protactor.svg"
       alt="alperen erturk" height="30" width="40" />
-  <img align="center"
+ <img align="center"
       src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/postman.svg"
       alt="alperen erturk" height="30" width="40" />
 </p>
@@ -129,7 +132,7 @@ OS: Linux, Windows
  <img align="center"
       src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/linux.svg"
       alt="alperen erturk" height="30" width="40" />
-  <img align="center"
+ <img align="center"
       src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/windows.svg"
       alt="alperen erturk" height="30" width="30" />
 </p>
